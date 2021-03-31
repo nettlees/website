@@ -7,7 +7,7 @@
       h1 Looking for new friends?
       
       p 
-        | <b>Ayup</b> is a community that brings together web developers of all experience levels. 
+        | <b>Ayup</b> is a community that brings together developers of all experience levels. 
         | Get help with your code, connect with other web developers, discuss your current 
         | project and chat about your favourite languages, libraries, and frameworks.
 
