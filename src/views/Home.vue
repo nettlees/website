@@ -7,32 +7,32 @@
       h1 Looking for new friends?
       
       p 
-        | <b>Ayup</b> is a community that brings together developers of all experience levels. 
-        | Get help with your code, connect with other web developers, discuss your current 
-        | project and chat about your favourite languages, libraries, and frameworks.
+        | <b>Ayup</b> is a community that brings together the platform of discord.  
+        | Upon joining this server you can expect to see the following;
+        | a welcoming community, many giveaways, an active chat and more.
 
-      a.join.button( href="https://discord.gg/devcord" )
+      a.join.button( href="https://discord.gg/D3HGuPHt8z" )
         Icon discord
         | Join us on Discord
 
       p.partner
         Icon discord-partner
-        | Official Partner
+        | Community Server
 
       .social
-        a.youtube( href="https://www.youtube.com/channel/UC3NK6zA3HhtTclLZZvdHX-A" title="YouTube" )
+        a.youtube( href="https://www.youtube.com" title="Youtube (soon)" )
           Icon youtube
 
-        a.github( href="https://github.com/devcord/" title="GitHub" )
+        a.github( href="https://github.com/ayup-gang/" title="GitHub" )
           Icon github
 
-        a.dev( href="https://dev.to/devcord" title="Dev.to" )
+        a.dev( href="https://rickroll.com" title="Dev.to" )
           Icon dev.to
 
-        a.soundcloud( href="https://soundcloud.com/devcord" title="SoundCloud" )
+        a.soundcloud( href="https://spotify.com" title="Spotify" )
           Icon soundcloud
 
-        //- a.twitch( href="#" title="Twitch" )
+        //- a.twitch( href="https://twitch.com" title="Twitch (soon)" )
         //-   Icon twitch
 
     .cards
@@ -40,19 +40,19 @@
         h2 
           Icon message-circle
           | Active Community
-        p With over 15,000 registered users from all around the globe, we have a very active Discord community.
+        p Talk all you want, as much as you want.
 
       .card
         h2 
           Icon user
-          | Friendly NPCs
-        p Find new friends, talk about web development, side projects, ask for help, talk about gaming, music and other off-topics.
+          | Friendly People
+        p Find new friends, talk about stuff, enter giveaways, listen to music etc.
 
       .card
         h2 
           Icon github-feather
           | Open Source
-        p Work on our open-sourced projects together with our community. Learn more about our projects on our GitHub Team page.
+        p Some bots in our discord server are open for you guys to use/check out on github.
 
     .staff
       h1 Staff
