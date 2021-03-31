@@ -11,7 +11,7 @@ module.exports = {
 
   meta: {
     title: 'ayup',
-    description: 'Ayup is a community that brings together web developers of all experience levels. Get help with your code, connect with other web developers, discuss your current project and chat about your favourite languages, libraries, and frameworks.',
+    description: 'Ayup is a community that brings together the platfrom of discord, in this server you will find; a welcoming community, many giveawyas, an active chat, and more!.',
     thumbnail: 'https://media.discordapp.net/attachments/822823693151502356/826835047054311484/ayup.gif',
     themeColor: '#f0134d',
     url: 'https://www.ayup.ga',
