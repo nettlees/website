@@ -1,8 +1,6 @@
 ## 📔 Rules 
 - Don't be a jerk.
 - Don't discuss politics, religion, anything illegal, or anything NSFW.
-- Only ask for help in the 🚧 **DEV ZONE** category.
-- Jobs are only allowed in the 💰 **PAID WORK** category.
 - Don't send unsolicited DMs for the purpose of finding help or for advertising.
 - Don't advertise your server.
 - Don't ask for help with illegal projects, or projects that break a website's Terms of Service.
@@ -13,42 +11,11 @@
 
 <br>
 
-To report a user, message **@modmail#3370** or use the following command:
-```
-.report @user <reason>
-```
+To report a user, message **@Ayup#3776** or use the following command:
+
 Punishment is at the discretion of individual staff members, please report unfair or abusive behavior from staff to one of our admins.
 
 <br>
 
-***We (Devcord or Devcord Staff) can not and will not be held liable for any damages or losses that result from your use of this server, the provided channels, direct messages, or any other form of communication or transaction that arise from using the aforementioned for any purpose. You agree to this by using this server.***
+***We (Ayup or Ayup Staff) can not and will not be held liable for any damages or losses that result from your use of this server, the provided channels, direct messages, or any other form of communication or transaction that arise from using the aforementioned for any purpose. You agree to this by using this server.***
  
- 
-## ❔ How do I get help?
-Please read this before posting: https://stackoverflow.com/help/how-to-ask
-
-<br>
-
-You may post your question in the relevant 🚧 **DEV ZONE** channel. If your question is urgent, you may ping one of the help roles by using the `.ping <role>` command to notify helpers. Please read the [bot documentation](/bots/devmod) for more details. **DO NOT** look for help in the 💖 **COMMUNITY** channels. 
- 
- 
-## 💰 Jobs
-Post job listings and "for hire" advertisements in the 💰 **PAID WORK** category.
-
-### Rules
-- Keep proof, for those on both sides of a transaction.
-- Scamming is a permanent and instant ban if proven. We will not take action if no proof is received.
-- Be smart. If it's too good to be true, it's too good to be true.
-- Absolutely no trolling, memeing, or offtopic is allowed in any jobs channel.
-- No unpaid or revenue share positions allowed in the Jobs channels.
-- Don't post illegal jobs, or those that break a website's Terms of Service.
-- Don't bump your post more than once a week.
-- Always remove your old post when you bump.
-
-### Template
-- Begin your post with [...] where ... is a list of comma separated tags that summarize your job posting. FRONTEND is a good broad tag, followed by a JS framework like ANGULAR. ex: [FRONTEND, ANGULAR] - the point is to make it brief, to help job seekers find jobs that match their skills and job posters find people who match their position.
-- Always note location, REMOTE or whatever CITY/COUNTRY you are listing for.
-- Always note term, TEMP, CONTRACT, INTERNSHIP, FULLTIME, etc.
-- Always note your budget for the project. This does not need to be an exact number, but rather a general idea of the project's budget. (Ex. $2000-5000)
-- If you are looking for SENIORs or you are one, add the tag.
-- Posts that do not follow the rules and guidelines will be removed.
