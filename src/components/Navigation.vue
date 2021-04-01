@@ -10,7 +10,7 @@
     //- span •
     router-link( to="/rules" title="Rules" ) Rules
     //- span •
-    router-link( to="/bots" title="bots" ) Bots
+    router-link( to="https://discord.gg/jaynepal" title="Jay Nepal Disccord" ) Jay Nepal Discord
 </template>
 
 <script>
