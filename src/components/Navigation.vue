@@ -10,39 +10,33 @@
     //- span •
     router-link( to="/rules" title="Rules" ) Rules
     //- span •
-    router-link( to="https://discord.gg/jaynepal" title="Jay Nepal Disccord" ) Jay Nepal Discord
+    router-link( to="/bots" title="bots" ) Bots
 </template>
 
 <script>
   import Logo from '@/assets/logo.svg'
   import axios from 'axios'
   import { api as apiURL } from 'config'
-
   const api = axios.create({
     baseURL: apiURL,
     withCredentials: true,
   })
-
   export default {
     components: {
       Logo,
     },
-
     data () {
       return {
         hasScrolled: false,
         loggedIn: false,
       }
     },
-
     methods: {
       scroll () {
         this.hasScrolled = window.scrollY > 0
       },
-
       async auth () {
         const { data: { loggedIn } } = await api.get('/discord/auth')
-
         this.loggedIn = loggedIn
       },
     },
@@ -64,7 +58,6 @@
     // position: fixed;
     position: absolute;
     z-index: 10;
-
     .background {
       position: absolute;
       top: 0;
@@ -76,7 +69,6 @@
       background-color: var(--background);
       box-shadow: 0 0 40px 10px rgba(black, 1);
     }
-
     &[hasScrolled] {
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(10px);
@@ -85,25 +77,20 @@
         opacity: 0.8;
       }
     }
-
     > * {
       position: relative;
     }
-
     .logo {
       fill: white;
       margin-right: auto;
       display: flex;
-
       svg {
         height: 30px;
       }
     }
-
     a:not(.logo), span {
       margin-left: 30px;
     }
-
     span {
       opacity: 0.8;
     }
