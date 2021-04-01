@@ -100,7 +100,7 @@ const router = new VueRouter({
 })
 
 router.beforeEach((to, _, next) => {
-  if (to.meta.title) document.title = `${to.meta.title} - devcord`
+  if (to.meta.title) document.title = `${to.meta.title} - ayup`
 
   next()
 })
