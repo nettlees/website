@@ -1,6 +1,6 @@
 # Bots
-**devcord** has several different bots, each with their own set of commands.
+**Ayup** has one custom bot.
 
 <br>
 
-<a href="/bots/devmod">devmod</a> — **devcord**'s moderation and utility bot.
+<a href="/bots/devmod">Ayup</a> — **Ayup**'s moderation, modmail, fun, giveaway and music bot.
