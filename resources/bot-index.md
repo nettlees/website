@@ -3,4 +3,4 @@
 
 <br>
 
-<a href="/bots/devmod">Ayup</a> — **Ayup**'s moderation, modmail, fun, giveaway and music bot.
+<a href="/bots/devmod">Devmod</a> — **Ayup**'s moderation, modmail, fun, giveaway and music bot.
