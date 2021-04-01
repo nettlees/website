@@ -6,42 +6,41 @@ footer
       li
         a(href="https://lost.design/legal-notice") Legal Notice
       li
-        a(href="https://github.com/devcord/devcord-logo") Branding
+        a(href="https://rickroll.com") Rickroll
       li
-        a(href="https://discord.gg/devcord") Invite
+        a(href="https://discord.gg/D3HGuPHt8z") Invite
 
   .group
     h4 Socials
     ul
       li
-        a(href="https://www.youtube.com/channel/UC3NK6zA3HhtTclLZZvdHX-A") YouTube
+        a(href="https://www.youtube.com") YouTube (soon)
       li
-        a(href="https://github.com/devcord/") GitHub
+        a(href="https://github.com/ayup-gang") GitHub
       li
-        a(href="https://dev.to/devcord") Dev.to
+        a(href="https://discord.gg/jaynepal") Jay Nepal
       li
-        a(href="https://soundcloud.com/devcord") SoundCloud
+        a(href="https://spotify") Spotify (soon)
 
   .group
-    h4 Projects
+    h4 Projects (soon)
     ul
       li
-        a(href="https://github.com/devcord/devmod") devmod
+        a(href="") 
       li
-        a(href="https://webgems.io/") Webgems
+        a(href="") 
       li
-        //- a( to="https://sysgems.io/" ) Sysgems
+        //- a( to="" ) 
       li
-        a(href="https://github.com/lostdesign/teamotes") Teamotes
-
+        a(href="") 
   .group
     h4 Contact
     ul
       li
-        a(href="mailto:info@devcord.com") info@devcord.com
+        a(href="mailto:ayup.cord@gmail.com") ayup.cord@gmail.com
 
   //- .github
-  //-   a( href="https://github.com/devcord/website" )
+  //-   a( href="https://github.com/ayup-gang" )
   //-     Icon github
 </template>
 
